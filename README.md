@@ -1,5 +1,5 @@
 # Fraud Analysis Project
-This project addresses a classification problem from a Kaggle competition (link provided below). The primary objective is to predict whether a given transaction is legitimate or fraudulent. Utilizing machine learning techniques, this project simulates real-life scenarios and can be applied to banking systems to identify fraudulent transactions effectively. The insights gained from this analysis can help improve security measures and reduce financial losses due to fraud.
+This project addresses a classification problem from a Kaggle. The primary objective is to predict whether a given transaction is legitimate or fraudulent. Utilizing machine learning techniques, this project simulates real-life scenarios and can be applied to banking systems to identify fraudulent transactions effectively. The insights gained from this analysis can help improve security measures and reduce financial losses due to fraud.
 
 # Methodology
 * Balancing the data
